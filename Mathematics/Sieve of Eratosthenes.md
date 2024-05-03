@@ -25,3 +25,5 @@ vector<int> Solution::sieve(int n) {
 ```
 
 Time Complexity : O(N* log log N)
+
+Auxiliary Space: O(n)
